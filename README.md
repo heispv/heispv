@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Peyman Vahidi</h1>
 <h3 align="center">Deep Learning Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heispv&label=Profile%20views&color=b40e0e&style=plastic" alt="heispv" /> </p>
 
 - 🌱 I’m currently learning **Deep RL**
 
