@@ -2,7 +2,7 @@
 <h3 align="center">Deep Learning Enthusiast</h3>
 
 
-- 🌱 I’m currently learning **Deep RL**
+- 🌱 I’m currently learning **Web Developing**
 
 - 💬 Ask me about **TensorFlow**
 
