@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Peyman Vahidi</h1>
 <h3 align="center">Deep Learning Enthusiast</h3>
 
-Over the past 4+ years, I have actively honed my skills in deep learning, successfully implementing various algorithms, and finding effective solutions for diverse applications. Consequently, I have acquired a strong expertise in libraries such as TensorFlow, Keras, Scikit-learn, Pandas, Matplotlib, and NumPy.
+Over the past 5+ years, I have actively honed my skills in deep learning, successfully implementing various algorithms, and finding effective solutions for diverse applications. Consequently, I have acquired a strong expertise in libraries such as TensorFlow, Keras, Scikit-learn, Pandas, Matplotlib, and NumPy.
 
-Furthermore, my enthusiasm for teaching others what I know has led me to accumulate 2+ years of experience in instructing Python programming language and around a year of experience in teaching machine learning and deep learning to aspiring programmers.
+Furthermore, my enthusiasm for teaching others what I know has led me to accumulate 3+ years of experience in instructing Python programming language and around a year of experience in teaching machine learning and deep learning to aspiring programmers.
 
 My specific interests lie in generative AI and data-centric AI, which continue to drive my passion for innovation in these fields.
 
-- 🌱 I’m currently learning **Bioinformatics**
+- 🌱 I’m currently learning **MLOps**
 
 - 💬 Ask me about **TensorFlow**
 
-- 📫 How to reach me **peymanvahidi1998@gmail.com**
+- 📫 How to reach me **peyman.vahidi@studio.unibo.it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
